@@ -1,0 +1,14 @@
+invoice:
+  invoice: Invoice
+  prepared_for: Prepared For
+  from: From
+  line_items:
+    description: Description
+    quantity: Quantity
+    rate: Rate
+    tax: Tax
+    total: Total
+  tax_total: Tax
+  subtotal: Subtotal
+  total_due: Total Due
+  payment_due: Payment Due
