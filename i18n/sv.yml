@@ -1,0 +1,14 @@
+invoice:
+  invoice: Faktura
+  prepared_for: Till
+  from: Från
+  line_items:
+    description: Beskrivning
+    quantity: Antal
+    rate: Pris
+    tax: Moms
+    total: Totalt
+  tax_total: Moms
+  subtotal: Subtotal
+  total_due: Att betala
+  payment_due: Förfallodatum
