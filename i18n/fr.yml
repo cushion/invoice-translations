@@ -1,0 +1,14 @@
+invoice:
+  invoice: Facture
+  prepared_for: Émise à
+  from: Par
+  line_items:
+    description: Description
+    quantity: Quantité
+    rate: Tarif
+    tax: Taxes
+    total: Total
+  tax_total: Taxes
+  subtotal: Sous-total
+  total_due: Montant dû
+  payment_due: Date d'échéance
