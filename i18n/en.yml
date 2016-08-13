@@ -1,7 +1,7 @@
 invoice:
   invoice: Invoice
-  prepared_for: Prepared For
-  from: From
+  prepared_for: Prepared For # label for client’s name & address
+  from: From # label for sender’s name & address
   line_items:
     description: Description
     quantity: Quantity
