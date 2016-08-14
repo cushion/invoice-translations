@@ -13,5 +13,6 @@
 
 ## Contributors
 
-- [English](/i18n/en.yml) by [Larry Fox](http://github.com/larryfox)
-- [Swedish](/i18n/sv.yml) by [Marcus Forsberg](http://github.com/marcusforsberg)
+- [English](/i18n/en.yml) by [Larry Fox](https://github.com/larryfox)
+- [Swedish](/i18n/sv.yml) by [Marcus Forsberg](https://github.com/marcusforsberg)
+- [French](/i18n/fr.yml) by [Louis-André Labadie](https://github.com/L-A)
