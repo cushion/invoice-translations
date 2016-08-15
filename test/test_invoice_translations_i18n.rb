@@ -10,4 +10,9 @@ class TestInvoiceTranslationsI18n < Minitest::Test
     assert_equal 'Invoice', @i18n[:invoice]
     assert_equal 'Invoice', @i18n.invoice
   end
+
+  def test_to_h
+    assert_equal Hash, @i18n.to_h.class
+    assert_equal 'Invoice', @i18n.to_h['invoice']
+  end
 end

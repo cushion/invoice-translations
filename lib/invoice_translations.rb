@@ -8,6 +8,12 @@ module InvoiceTranslations
   def available_locales
     LOADER.available.map(&:code)
   end
+
+  def to_h
+    available_locales
+      .map { |locale| [locale, I18n.new(locale).to_h] }
+      .to_h
+  end
 end
 
 require 'invoice_translations/i18n'

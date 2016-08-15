@@ -6,6 +6,10 @@ module InvoiceTranslations
       @i18n = R18n::I18n.new(locale, LOADER)
     end
 
+    def to_h
+      @i18n.t.to_hash['invoice'.freeze]
+    end
+
     def [](name)
       @i18n[:invoice][name]
     end
