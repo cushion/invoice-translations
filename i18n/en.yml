@@ -1,3 +1,4 @@
+description: English
 invoice:
   invoice: Invoice
   prepared_for: Prepared For # label for client’s name & address

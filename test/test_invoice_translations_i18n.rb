@@ -13,6 +13,6 @@ class TestInvoiceTranslationsI18n < Minitest::Test
 
   def test_to_h
     assert_equal Hash, @i18n.to_h.class
-    assert_equal 'Invoice', @i18n.to_h['invoice']
+    assert_equal 'English', @i18n.to_h['description']
   end
 end

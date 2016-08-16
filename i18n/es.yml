@@ -1,3 +1,4 @@
+description: Spanish
 invoice:
   invoice: Factura
   prepared_for: Facturado a # label for client’s name & address

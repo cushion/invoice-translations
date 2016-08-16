@@ -7,7 +7,7 @@ module InvoiceTranslations
     end
 
     def to_h
-      @i18n.t.to_hash['invoice'.freeze]
+      @i18n.t.to_hash
     end
 
     def [](name)
