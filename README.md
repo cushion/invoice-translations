@@ -17,3 +17,5 @@
 - [Swedish](/i18n/sv.yml) by [Marcus Forsberg](https://github.com/marcusforsberg)
 - [French](/i18n/fr.yml) by [Louis-André Labadie](https://github.com/L-A)
 - [German](/i18n/de.yml) by [Thomas Ebert](https://github.com/te-online)
+- [Norwegian (Bokmål)](/i18n/no-nb.yml) by [Bear Hagen](https://github.com/bearhagen)
+- [Norwegian (Nynorsk)](/i18n/no-ny.yml) by [Bear Hagen](https://github.com/bearhagen)
