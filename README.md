@@ -1,4 +1,4 @@
-# Invoice Translations for Cushion
+# Invoice Translations for Cushion [![Build Status](https://travis-ci.org/cushion/invoice-translations.svg?branch=master)](https://travis-ci.org/cushion/invoice-translations)
 
 ![](https://dl.dropboxusercontent.com/u/121678/cushion/invoicing-github.png)
 
