@@ -20,3 +20,4 @@
 - [Spanish](/i18n/es.yml) by [Ricardo Félix Virto](https://github.com/riki-felix)
 - [Norwegian (Bokmål)](/i18n/no-nb.yml) by [Bear Hagen](https://github.com/bearhagen)
 - [Norwegian (Nynorsk)](/i18n/no-ny.yml) by [Bear Hagen](https://github.com/bearhagen)
+- [Danish](/i18n/da.yml) by [Chriztian Steinmeier](https://github.com/greystate)
