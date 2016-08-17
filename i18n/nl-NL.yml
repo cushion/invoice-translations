@@ -1,0 +1,15 @@
+description: Dutch
+invoice:
+  invoice: Factuur
+  prepared_for: Ter attentie van # label for client’s name & address
+  from: Van # label for sender’s name & address
+  line_items:
+    description: Beschrijving
+    quantity: Hoeveelheid
+    rate: Tarief
+    tax: BTW
+    total: Totaal
+  tax_total: BTW
+  subtotal: Subtotaal
+  total_due: Totaal
+  payment_due: Vervaldatum
