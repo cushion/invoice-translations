@@ -1,0 +1,15 @@
+description: Danish
+invoice:
+  invoice: Faktura
+  prepared_for: Til
+  from: Fra
+  line_items:
+    description: Beskrivelse
+    quantity: Antal
+    rate: Pris
+    tax: Moms
+    total: Total
+  tax_total: Moms
+  subtotal: Subtotal
+  total_due: Til betaling
+  payment_due: Forfaldsdato
