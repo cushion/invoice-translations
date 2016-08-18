@@ -1,0 +1,15 @@
+description: Italian
+invoice:
+  invoice: Fattura
+  prepared_for: Emessa Per # label for client’s name & address
+  from: Da # label for sender’s name & address
+  line_items:
+    description: Descrizione
+    quantity: Quantità
+    rate: Tariffa
+    tax: Tasse
+    total: Totale
+  tax_total: Tasse
+  subtotal: Subtotale
+  total_due: Totale Dovuto
+  payment_due: Pagamento Dovuto
