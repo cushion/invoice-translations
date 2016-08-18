@@ -24,3 +24,4 @@
 - [Danish](/i18n/da.yml) by [Chriztian Steinmeier](https://github.com/greystate)
 - [Dutch (Netherlands)](/i18n/nl-nl.yml) by [Erik Gelderblom](https://github.com/ErikFontanel)
 - [Dutch (Belgium)](/i18n/nl-be.yml) by [Pieter Beulque](https://github.com/pieterbeulque)
+- [Italian)](/i18n/it.yml) by [Nicolò Benigni](https://github.com/ciaoben)
