@@ -1,0 +1,15 @@
+description: Português
+invoice:
+  invoice: Factura
+  prepared_for: Facturado a # label for client’s name & address
+  from: De # label for sender’s name & address
+  line_items:
+    description: Descrição
+    quantity: Quantidade
+    rate: Preço
+    tax: Imposto
+    total: Total
+  tax_total: Impostos
+  subtotal: Soma
+  total_due: A Pagar
+  payment_due: Vencimento
