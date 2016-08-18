@@ -18,6 +18,7 @@
 - [French](/i18n/fr.yml) by [Louis-André Labadie](https://github.com/L-A)
 - [German](/i18n/de.yml) by [Thomas Ebert](https://github.com/te-online)
 - [Spanish](/i18n/es.yml) by [Ricardo Félix Virto](https://github.com/riki-felix)
+- [Dutch](/i18n/nl.yml) by [Joey van Dijk](https://github.com/joeyvandijk)
 - [Norwegian (Bokmål)](/i18n/no-nb.yml) by [Bear Hagen](https://github.com/bearhagen)
 - [Norwegian (Nynorsk)](/i18n/no-ny.yml) by [Bear Hagen](https://github.com/bearhagen)
 - [Portuguese (Portugal)](/i18n/pt-pt.yml) by [Paulo Pereira](https://github.com/paulozoom)
