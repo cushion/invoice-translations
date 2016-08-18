@@ -21,6 +21,7 @@
 - [Norwegian (Bokmål)](/i18n/no-nb.yml) by [Bear Hagen](https://github.com/bearhagen)
 - [Norwegian (Nynorsk)](/i18n/no-ny.yml) by [Bear Hagen](https://github.com/bearhagen)
 - [Portuguese (Portugal)](/i18n/pt-pt.yml) by [Paulo Pereira](https://github.com/paulozoom)
+- [Portuguese (Brazil)](/i18n/pt-br.yml) by [Rafael Masoni](https://github.com/rmasoni)
 - [Danish](/i18n/da.yml) by [Chriztian Steinmeier](https://github.com/greystate)
 - [Dutch (Netherlands)](/i18n/nl-nl.yml) by [Erik Gelderblom](https://github.com/ErikFontanel)
 - [Dutch (Belgium)](/i18n/nl-be.yml) by [Pieter Beulque](https://github.com/pieterbeulque)
