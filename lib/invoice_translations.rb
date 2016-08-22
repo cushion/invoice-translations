@@ -2,7 +2,6 @@ require 'r18n-core'
 
 module InvoiceTranslations
   LOADER = R18n::Loader::YAML.new(File.expand_path('../../i18n/', __FILE__))
-  WHITELISTED_KEYS = %w[description invoice]
 
   module_function
 
@@ -12,7 +11,7 @@ module InvoiceTranslations
 
   def to_h
     available_locales
-      .map { |locale| [locale, I18n.new(locale).to_h.select { |k| WHITELISTED_KEYS.include?(k) }] }.to_h
+      .map { |locale| [locale, InvoiceTranslations::I18n.new(locale).to_h] }.to_h
   end
 end
 

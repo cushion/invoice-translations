@@ -7,7 +7,7 @@ module InvoiceTranslations
     end
 
     def to_h
-      @i18n.t.to_hash
+      @i18n.t.to_hash.select { |k| %w[description invoice].freeze.include?(k) }
     end
 
     def [](name)
