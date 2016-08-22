@@ -27,3 +27,4 @@
 - [Dutch (Belgium)](/i18n/nl-be.yml) by [Pieter Beulque](https://github.com/pieterbeulque)
 - [Italian](/i18n/it.yml) by [Nicolò Benigni](https://github.com/ciaoben)
 - [Romanian](/i18n/ro.yml) by [Dumitru Axentii](https://github.com/dumitruaxentii)
+- [Simplified Chinese](/i18n/zh-cn.yml) by [Yi Ding](https://github.com/dingyi)
