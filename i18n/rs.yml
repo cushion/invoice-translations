@@ -1,0 +1,15 @@
+description: Serbian
+invoice:
+  invoice: Račun
+  prepared_for: Izdato za # label for client’s name & address
+  from: Od # label for sender’s name & address
+  line_items:
+    description: Opis
+    quantity: Količina
+    rate: Cena
+    tax: Porez
+    total: Ukupno
+  tax_total: Ukupan porez
+  subtotal: Suma stavke
+  total_due: Ukupan iznos
+  payment_due: Iznos za naplatu
