@@ -9,7 +9,7 @@ invoice:
     rate: Cena
     tax: Porez
     total: Ukupno
-  tax_total: Ukupan porez
+  tax_total: Porez
   subtotal: Suma stavke
-  total_due: Ukupan iznos
-  payment_due: Iznos za naplatu
+  total_due: Ukupno za naplatu
+  payment_due: Rok plaćanja
