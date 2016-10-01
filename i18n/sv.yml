@@ -13,3 +13,5 @@ invoice:
   subtotal: Subtotal
   total_due: Att betala
   payment_due: Förfallodatum
+  discount: Rabatt
+  paid: Betald
