@@ -13,3 +13,5 @@ invoice:
   subtotal: 小計
   total_due: ご請求金額
   payment_due: お支払い期限
+  discount: 割引
+  paid: 既済
