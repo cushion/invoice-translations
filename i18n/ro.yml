@@ -1,0 +1,15 @@
+description: Romanian
+invoice:
+  invoice: Factură
+  prepared_for: Pregătit pentru # label for client’s name & address
+  from: De la # label for sender’s name & address
+  line_items:
+    description: Descriere
+    quantity: Cantitate
+    rate: Rata
+    tax: Taxe
+    total: Total
+  tax_total: Taxe
+  subtotal: Subtotal
+  total_due: Total datorat
+  payment_due: Plata datorată
