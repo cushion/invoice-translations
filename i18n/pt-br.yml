@@ -1,0 +1,15 @@
+description: Portuguese (Brazil)
+invoice:
+  invoice: Fatura
+  prepared_for: Para # label for client’s name & address
+  from: De # label for sender’s name & address
+  line_items:
+    description: Descrição
+    quantity: Quantidade
+    rate: Valor
+    tax: Alíquota
+    total: Total
+  tax_total: Impostos
+  subtotal: Subtotal
+  total_due: Valor Total da Fatura
+  payment_due: Vencimento

@@ -16,7 +16,6 @@ Gem::Specification.new do |gem|
   gem.test_files    = Dir.glob('test/**/*')
   gem.require_paths = ['lib']
 
-  gem.add_dependency 'r18n-core', '~> 2.1'
   gem.add_development_dependency 'rake', '~> 11.2'
   gem.add_development_dependency 'minitest', '~> 5.9'
 end

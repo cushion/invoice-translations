@@ -1,0 +1,15 @@
+description: Dutch (Belgium)
+invoice:
+  invoice: Factuur
+  prepared_for: Begunstigde
+  from: Van
+  line_items:
+    description: Omschrijving
+    quantity: Aantal
+    rate: Prijs
+    tax: BTW
+    total: Totaal
+  tax_total: BTW
+  subtotal: Subtotaal
+  total_due: Verschuldigd bedrag
+  payment_due: Betaling binnen

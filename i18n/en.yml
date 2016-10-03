@@ -1,3 +1,4 @@
+description: English
 invoice:
   invoice: Invoice
   prepared_for: Prepared For # label for client’s name & address
@@ -12,3 +13,5 @@ invoice:
   subtotal: Subtotal
   total_due: Total Due
   payment_due: Payment Due
+  discount: Discount
+  paid: Paid

@@ -1,8 +1,8 @@
-# Invoice Translations for Cushion
+# Invoice Translations for Cushion [![Build Status](https://travis-ci.org/cushion/invoice-translations.svg?branch=master)](https://travis-ci.org/cushion/invoice-translations)
 
 ![](https://dl.dropboxusercontent.com/u/121678/cushion/invoicing-github.png)
 
-[Cushion](http://cushionapp.com) relies on crowdsourcing for the translation of its invoice template. If you’d like to provide a translation for your language, follow the steps below. We’ll update the list of available locales within a few days of merging your pull request.
+[Cushion](http://cushionapp.com) relies on crowdsourcing for the translation of its invoice template. If you’d like to provide a translation for your language, follow the steps below. Here’s an [example invoice](https://dl.dropboxusercontent.com/u/121678/cushion-invoice.pdf). We’ll update the list of available locales within a few days of merging your pull request.
 
 ## Contributing
 
@@ -17,3 +17,13 @@
 - [Swedish](/i18n/sv.yml) by [Marcus Forsberg](https://github.com/marcusforsberg)
 - [French](/i18n/fr.yml) by [Louis-André Labadie](https://github.com/L-A)
 - [German](/i18n/de.yml) by [Thomas Ebert](https://github.com/te-online)
+- [Spanish](/i18n/es.yml) by [Ricardo Félix Virto](https://github.com/riki-felix)
+- [Norwegian (Bokmål)](/i18n/no-nb.yml) by [Bear Hagen](https://github.com/bearhagen)
+- [Norwegian (Nynorsk)](/i18n/no-ny.yml) by [Bear Hagen](https://github.com/bearhagen)
+- [Portuguese (Portugal)](/i18n/pt-pt.yml) by [Paulo Pereira](https://github.com/paulozoom)
+- [Portuguese (Brazil)](/i18n/pt-br.yml) by [Rafael Masoni](https://github.com/rmasoni)
+- [Danish](/i18n/da.yml) by [Chriztian Steinmeier](https://github.com/greystate)
+- [Dutch (Netherlands)](/i18n/nl-nl.yml) by [Erik Gelderblom](https://github.com/ErikFontanel)
+- [Dutch (Belgium)](/i18n/nl-be.yml) by [Pieter Beulque](https://github.com/pieterbeulque)
+- [Italian](/i18n/it.yml) by [Nicolò Benigni](https://github.com/ciaoben)
+- [Romanian](/i18n/ro.yml) by [Dumitru Axentii](https://github.com/dumitruaxentii)

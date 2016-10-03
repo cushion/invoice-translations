@@ -1,3 +1,4 @@
+description: German
 invoice:
   invoice: Rechnung
   prepared_for: Freundlich berechnet für # label for client’s name & address

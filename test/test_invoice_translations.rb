@@ -7,6 +7,6 @@ class TestInvoiceTranslations < Minitest::Test
   end
 
   def test_to_h
-    assert_equal 'Rechnung', InvoiceTranslations.to_h['de']['invoice']
+    assert_equal 'German', InvoiceTranslations.to_h['de']['description']
   end
 end
