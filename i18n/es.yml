@@ -13,3 +13,5 @@ invoice:
   subtotal: Subtotal
   total_due: Importe total
   payment_due: Fecha de vencimiento
+  discount: Descuento
+  paid: Pagado

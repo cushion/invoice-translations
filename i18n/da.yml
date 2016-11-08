@@ -13,3 +13,5 @@ invoice:
   subtotal: Subtotal
   total_due: Til betaling
   payment_due: Forfaldsdato
+  discount: Rabat
+  paid: Betalt

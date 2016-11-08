@@ -2,7 +2,7 @@ description: Norwegian (Nynorsk)
 invoice:
   invoice: Faktura
   prepared_for: Til # Etikett for kundens navn og adresse
-  from: Frå # Etikett for avsenders navn og adresse
+  from: Frå         # Etikett for avsenders navn og adresse
   line_items:
     description: Beskriving
     quantity: Tal
@@ -13,3 +13,5 @@ invoice:
   subtotal: Delsum
   total_due: Å betala
   payment_due: Forfallsdato
+  discount: Rabatt
+  paid: Betalt
