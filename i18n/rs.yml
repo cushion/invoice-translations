@@ -13,3 +13,5 @@ invoice:
   subtotal: Suma stavke
   total_due: Ukupno za naplatu
   payment_due: Rok plaćanja
+  discount: Popust
+  paid: Plaćeno
