@@ -16,5 +16,5 @@ invoice:
   discount: Desconto
   paid: Pago
   total: Total
-  paid_total: Valor Pago
+  amount_paid: Valor Pago
   balance_due: Valor Devido

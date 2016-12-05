@@ -14,5 +14,5 @@ invoice:
   total_due: Verschuldigd bedrag
   payment_due: Betaling binnen
   total: Totaal
-  paid_total: Totaal betaald
+  amount_paid: Totaal betaald
   balance_due: Verschuldigd bedrag

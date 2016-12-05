@@ -16,5 +16,5 @@ invoice:
   discount: Rabatt
   paid: Betald
   total: Totalt
-  paid_total: Betalt
+  amount_paid: Betalt
   balance_due: Att betala

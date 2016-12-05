@@ -16,5 +16,5 @@ invoice:
   discount: Rabat
   paid: Betalt
   total: Total
-  paid_total: Betalt beløb
+  amount_paid: Betalt beløb
   balance_due: Til betaling

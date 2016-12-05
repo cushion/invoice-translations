@@ -16,5 +16,5 @@ invoice:
   discount: Réduction
   paid: Payée
   total: Total
-  paid_total: Total payé
+  amount_paid: Total payé
   balance_due: Montant dû

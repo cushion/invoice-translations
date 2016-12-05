@@ -16,5 +16,5 @@ invoice:
   discount: Rabatt
   paid: Bezahlt
   total: Gesamtbetrag
-  paid_total: Betrag gezahlt
+  amount_paid: Betrag gezahlt
   balance_due: Fälliger Betrag

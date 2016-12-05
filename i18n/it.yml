@@ -16,5 +16,5 @@ invoice:
   discount: Sconto
   paid: Pagata
   total: Totale
-  paid_total: Pagato
+  amount_paid: Pagato
   balance_due: Importo Dovuto
