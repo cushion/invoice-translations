@@ -15,3 +15,6 @@ invoice:
   payment_due: Payment Due
   discount: Discount
   paid: Paid
+  total: Total
+  paid_total: Paid Total
+  balance_due: Balance Due

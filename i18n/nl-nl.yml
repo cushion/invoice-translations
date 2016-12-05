@@ -11,7 +11,10 @@ invoice:
     total: Totaal
   tax_total: BTW
   subtotal: Subtotaal
-  total_due: Totaal
+  total_due: Totaal te betalen
   payment_due: Vervaldatum
   discount: Korting
   paid: Betaald
+  total: Totaal
+  paid_total: Totaal betaald
+  balance_due: Totaal te betalen

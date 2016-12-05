@@ -15,3 +15,6 @@ invoice:
   payment_due: Förfallodatum
   discount: Rabatt
   paid: Betald
+  total: Totalt
+  paid_total: Betalt
+  balance_due: Att betala

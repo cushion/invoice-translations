@@ -15,3 +15,6 @@ invoice:
   payment_due: Zahlbar bis
   discount: Rabatt
   paid: Bezahlt
+  total: Gesamtbetrag
+  paid_total: Betrag gezahlt
+  balance_due: Fälliger Betrag

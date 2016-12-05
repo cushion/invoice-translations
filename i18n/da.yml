@@ -15,3 +15,6 @@ invoice:
   payment_due: Forfaldsdato
   discount: Rabat
   paid: Betalt
+  total: Total
+  paid_total: Betalt beløb
+  balance_due: Til betaling

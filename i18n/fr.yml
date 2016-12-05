@@ -15,3 +15,6 @@ invoice:
   payment_due: Date d'échéance
   discount: Réduction
   paid: Payée
+  total: Total
+  paid_total: Total payé
+  balance_due: Montant dû

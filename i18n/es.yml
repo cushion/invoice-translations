@@ -15,3 +15,6 @@ invoice:
   payment_due: Fecha de vencimiento
   discount: Descuento
   paid: Pagado
+  total: Total
+  paid_total: Total Pagado
+  balance_due: Saldo Debido
