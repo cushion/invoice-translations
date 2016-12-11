@@ -1,0 +1,15 @@
+description: Simplified Chinese
+invoice:
+  invoice: 账单
+  prepared_for: 付款方 # label for client’s name & address
+  from: 收款方 # label for sender’s name & address
+  line_items:
+    description: 类型
+    quantity: 数量
+    rate: 价格
+    tax: 税金
+    total: 合计
+  tax_total: 税金总额
+  subtotal: 小计
+  total_due: 应付总额
+  payment_due: 最后付款期限
