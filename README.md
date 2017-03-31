@@ -28,3 +28,4 @@
 - [Italian](/i18n/it.yml) by [Nicolò Benigni](https://github.com/ciaoben)
 - [Romanian](/i18n/ro.yml) by [Dumitru Axentii](https://github.com/dumitruaxentii)
 - [Polish](/i18n/pl.yml) by [Wojtek Piekarczyk](https://github.com/drunkpandabeer)
+- [Slovenian](/i18n/sl.yml) by [Mitja Felicijan](https://github.com/mitjafelicijan)
