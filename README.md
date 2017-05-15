@@ -26,3 +26,4 @@
 - [Dutch (Netherlands)](/i18n/nl-nl.yml) by [Erik Gelderblom](https://github.com/ErikFontanel)
 - [Dutch (Belgium)](/i18n/nl-be.yml) by [Pieter Beulque](https://github.com/pieterbeulque)
 - [Italian](/i18n/it.yml) by [Nicolò Benigni](https://github.com/ciaoben)
+- [Russian](/i18n/ru.yml) by [Dumitru Axentii](https://github.com/dumitruaxentii)
