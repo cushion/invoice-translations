@@ -1,0 +1,15 @@
+description: Russian
+invoice:
+  invoice: Выставленный счет
+  prepared_for: Подготовлен для # label for client’s name & address
+  from: От # label for sender’s name & address
+  line_items:
+    description: Описание
+    quantity: Количество
+    rate: Ставка
+    tax: Налог
+    total: Всего
+  tax_total: Налог
+  subtotal: Промежуточный итог
+  total_due: Общая сумма задолженности
+  payment_due: Заплатить до
