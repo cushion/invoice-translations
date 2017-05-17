@@ -5,11 +5,16 @@ invoice:
   from: Van # label for sender’s name & address
   line_items:
     description: Beschrijving
-    quantity: Hoeveelheid
+    quantity: Aantal
     rate: Tarief
     tax: BTW
     total: Totaal
   tax_total: BTW
   subtotal: Subtotaal
-  total_due: Totaal
+  total_due: Totaal te betalen
   payment_due: Vervaldatum
+  discount: Korting
+  paid: Betaald
+  total: Totaal
+  amount_paid: Totaal betaald
+  balance_due: Totaal te betalen

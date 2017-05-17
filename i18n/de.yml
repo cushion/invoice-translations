@@ -1,7 +1,7 @@
 description: German
 invoice:
   invoice: Rechnung
-  prepared_for: Freundlich berechnet für # label for client’s name & address
+  prepared_for: Ausgestellt für # label for client’s name & address
   from: Von # label for sender’s name & address
   line_items:
     description: Beschreibung
@@ -13,3 +13,8 @@ invoice:
   subtotal: Zwischensumme
   total_due: Rechnungssumme
   payment_due: Zahlbar bis
+  discount: Rabatt
+  paid: Bezahlt
+  total: Gesamtbetrag
+  amount_paid: Betrag gezahlt
+  balance_due: Fälliger Betrag
