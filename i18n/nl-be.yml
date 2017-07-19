@@ -13,6 +13,8 @@ invoice:
   subtotal: Subtotaal
   total_due: Verschuldigd bedrag
   payment_due: Betaling binnen
+  discount: Korting
+  paid: Betaald
   total: Totaal
   amount_paid: Totaal betaald
   balance_due: Verschuldigd bedrag
