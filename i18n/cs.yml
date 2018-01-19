@@ -1,0 +1,20 @@
+description: Czech
+invoice:
+  invoice: Faktura
+  prepared_for: Odběratel # label for client’s name & address
+  from: Dodavatel # label for sender’s name & address
+  line_items:
+    description: Popis
+    quantity: Množství
+    rate: Cena
+    tax: Daň
+    total: Součet
+  tax_total: Daň
+  subtotal: Mezisoučet
+  total_due: Celkem k úhradě
+  payment_due: Datum splatnosti
+  discount: Sleva
+  paid: Zaplaceno
+  total: Celkem
+  amount_paid: Uhrazená částka
+  balance_due: Nedoplatek
