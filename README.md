@@ -30,3 +30,4 @@
 - [Polish](/i18n/pl.yml) by [Wojtek Piekarczyk](https://github.com/drunkpandabeer)
 - [Russian](/i18n/ru.yml) by [Dumitru Axentii](https://github.com/dumitruaxentii)
 - [Czech](/i18n/cs.yml) by [Jan Pěnčík](https://github.com/janpencik)
+- [Estonian](/i18n/et.yml) by [Rando Õispuu](https://github.com/innoflyweb/)
