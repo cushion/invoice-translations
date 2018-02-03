@@ -1,0 +1,20 @@
+description: Estonian (Eesti)
+invoice:
+  invoice: Arve
+  prepared_for: Saaja # label for client’s name & address
+  from: Saatja # label for sender’s name & address
+  line_items:
+    description: Kirjeldus
+    quantity: Kogus
+    rate: Ühiku hind
+    tax: Käibemaks
+    total: Summa
+  tax_total: Käibemaks kokku
+  subtotal: Kokku
+  total_due: Arve summa kokku
+  payment_due: Makse tähtaeg
+  discount: Allahindlus
+  paid: Tasutud
+  total: Summa
+  amount_paid: Tasutud summa
+  balance_due: Eelmisest perioodist tasumata
