@@ -2,11 +2,11 @@
   "name": "invoice-translations",
   "version": "0.0.15",
   "description": "Invoice translations for Cushion",
-  "main": "index.js",
   "directories": {
     "lib": "lib",
     "test": "test"
   },
+  "files": ["i18n"],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
