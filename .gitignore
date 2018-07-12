@@ -2,3 +2,4 @@
 .rbenv-gemsets
 .ruby-version
 Gemfile.lock
+node_modules/

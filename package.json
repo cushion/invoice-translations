@@ -1,0 +1,26 @@
+{
+  "name": "invoice-translations",
+  "version": "0.0.15",
+  "description": "Invoice translations for Cushion",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cushion/invoice-translations.git"
+  },
+  "author": "Jonnie Hallman <jonnie@cushionapp.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cushion/invoice-translations/issues"
+  },
+  "homepage": "https://github.com/cushion/invoice-translations#readme",
+  "dependencies": {
+    "js-yaml": "^3.12.0"
+  }
+}
