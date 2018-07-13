@@ -14,7 +14,7 @@ module.exports = function (moduleOptions) {
   }, {})
 
   this.addPlugin({
-    src: './plugin.template.js',
+    src: path.join(__dirname, 'plugin.template.js'),
     fileName: 'invoice_translations.js',
     options: {
       i18n,
