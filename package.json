@@ -2,11 +2,15 @@
   "name": "invoice-translations",
   "version": "0.0.15",
   "description": "Invoice translations for Cushion",
+  "main": "nuxt/module.js",
   "directories": {
     "lib": "lib",
     "test": "test"
   },
-  "files": ["i18n"],
+  "files": [
+    "nuxt",
+    "i18n"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
