@@ -1,5 +1,6 @@
 const yaml = require('js-yaml')
 const fs = require('fs')
+const path = require('path')
 
 module.exports = function (moduleOptions) {
   const files = fs.readdirSync(path.join(__dirname, '..', 'i18n'))
