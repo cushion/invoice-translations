@@ -14,6 +14,7 @@
 ## Contributors
 
 - [English](/i18n/en.yml) by [Larry Fox](https://github.com/larryfox)
+- [English (New Zealand)](/i18n/en-nz.yml) by [Rafael Fonseca](https://github.com/rafaelmagu)
 - [Swedish](/i18n/sv.yml) by [Marcus Forsberg](https://github.com/marcusforsberg)
 - [French](/i18n/fr.yml) by [Louis-André Labadie](https://github.com/L-A)
 - [German](/i18n/de.yml) by [Thomas Ebert](https://github.com/te-online)
