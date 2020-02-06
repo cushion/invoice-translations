@@ -1,0 +1,20 @@
+description: Hrvatski
+invoice:
+  invoice: Račun
+  prepared_for: Klijent # label for client’s name & address
+  from: Račun izdao # label for sender’s name & address
+  line_items:
+    description: Opis
+    quantity: Količina
+    rate: Cijena
+    tax: Porez
+    total: Ukupno
+  tax_total: Ukupni porez
+  subtotal: Međusuma
+  total_due: Sveukupno
+  payment_due: Rok plaćanja
+  discount: Popust
+  paid: Plaćeno
+  total: Ukupno
+  amount_paid: Plaćen iznos
+  balance_due: Razlika
