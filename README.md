@@ -32,4 +32,4 @@
 - [Russian](/i18n/ru.yml) by [Dumitru Axentii](https://github.com/dumitruaxentii)
 - [Czech](/i18n/cs.yml) by [Jan Pěnčík](https://github.com/janpencik)
 - [Estonian](/i18n/et.yml) by [Rando Õispuu](https://github.com/innoflyweb/)
-- [Croatian (Hrvatski)(/i18n/hr.yml) by [Damjan Uzelac](https://github.com/damjanuzelac/)
+- [Croatian (Hrvatski)](/i18n/hr.yml) by [Damjan Uzelac](https://github.com/damjanuzelac/)
