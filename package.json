@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/cushion/invoice-translations#readme",
   "dependencies": {
-    "js-yaml": "^3.12.0"
+    "js-yaml": "^3.13.1"
   }
 }
