@@ -1,0 +1,17 @@
+description: Japanese
+invoice:
+  invoice: 請求書
+  prepared_for: 顧客名 # label for client’s name & address
+  from: 請求者 # label for sender’s name & address
+  line_items:
+    description: 品目
+    quantity: 数量
+    rate: 単価
+    tax: 税
+    total: 金額
+  tax_total: 消費税
+  subtotal: 小計
+  total_due: ご請求金額
+  payment_due: お支払い期限
+  discount: 割引
+  paid: 既済
