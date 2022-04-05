@@ -17,4 +17,5 @@ invoice:
   paid: Tasutud
   total: Summa
   amount_paid: Tasutud summa
+  date_paid: Tasumise kuupäev
   balance_due: Eelmisest perioodist tasumata

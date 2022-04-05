@@ -17,4 +17,5 @@ invoice:
   paid: Betaald
   total: Totaal
   amount_paid: Totaal betaald
+  date_paid: Datum van betaling
   balance_due: Totaal te betalen

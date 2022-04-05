@@ -13,3 +13,9 @@ invoice:
   subtotal: Soma
   total_due: A Pagar
   payment_due: Vencimento
+  discount: Desconto
+  paid: Pago
+  total: Total
+  amount_paid: Valor Pago
+  date_paid: Data de pagamento
+  balance_due: Valor Devido

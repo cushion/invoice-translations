@@ -14,6 +14,7 @@
 ## Contributors
 
 - [English](/i18n/en.yml) by [Larry Fox](https://github.com/larryfox)
+- [English (United Kingdom)](/i18n/en-gb.yml) by [Elliott Mangham](https://github.com/elliottmangham)
 - [English (New Zealand)](/i18n/en-nz.yml) by [Rafael Fonseca](https://github.com/rafaelmagu)
 - [Swedish](/i18n/sv.yml) by [Marcus Forsberg](https://github.com/marcusforsberg)
 - [French](/i18n/fr.yml) by [Louis-André Labadie](https://github.com/L-A)
@@ -33,3 +34,4 @@
 - [Czech](/i18n/cs.yml) by [Jan Pěnčík](https://github.com/janpencik)
 - [Estonian](/i18n/et.yml) by [Rando Õispuu](https://github.com/innoflyweb/)
 - [Croatian (Hrvatski)](/i18n/hr.yml) by [Damjan Uzelac](https://github.com/damjanuzelac/)
+- [Slovenian](/i18n/sl.yml) by [Mitja Felicijan](https://github.com/mitjafelicijan)

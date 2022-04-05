@@ -13,3 +13,9 @@ invoice:
   subtotal: Subtotal
   total_due: Total datorat
   payment_due: Plata datorată
+  discount: Reducere
+  paid: Plătit
+  total: Total
+  amount_paid: Suma plătită
+  date_paid: Data plății
+  balance_due: Sold scadent

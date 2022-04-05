@@ -17,4 +17,5 @@ invoice:
   paid: Paid
   total: Total
   amount_paid: Amount Paid
+  date_paid: Date Paid
   balance_due: Balance Due

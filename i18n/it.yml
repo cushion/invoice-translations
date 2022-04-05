@@ -17,4 +17,5 @@ invoice:
   paid: Pagata
   total: Totale
   amount_paid: Pagato
+  date_paid: Data di pagamento
   balance_due: Importo Dovuto
