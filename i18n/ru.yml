@@ -13,3 +13,9 @@ invoice:
   subtotal: Промежуточный итог
   total_due: Общая сумма задолженности
   payment_due: Заплатить до
+  discount: Дисконт
+  paid: Оплаченный
+  total: Всего
+  amount_paid: Выплаченная сумма
+  date_paid: Дата оплаты
+  balance_due: Задолжность

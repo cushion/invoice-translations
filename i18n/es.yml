@@ -17,4 +17,5 @@ invoice:
   paid: Pagado
   total: Total
   amount_paid: Total Pagado
+  date_paid: Fecha de pago
   balance_due: Saldo Debido

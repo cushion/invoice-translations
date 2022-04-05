@@ -17,4 +17,5 @@ invoice:
   paid: Zapłacono
   total: Suma
   amount_paid: Wartość zapłacona
+  date_paid: Termin zapłaty
   balance_due: Saldo należne

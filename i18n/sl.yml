@@ -1,0 +1,21 @@
+description: Slovenian
+invoice:
+  invoice: Račun
+  prepared_for: Za # label for client’s name & address
+  from: Od # label for sender’s name & address
+  line_items:
+    description: Opis
+    quantity: Količina
+    rate: Cena
+    tax: DDV
+    total: Znesek
+  tax_total: DDV
+  subtotal: Skupaj brez DDV
+  total_due: Znesek za plačilo
+  payment_due: Valuta
+  discount: Popust
+  paid: Plačano
+  total: Skupaj
+  amount_paid: Plačani znesek
+  date_paid: Datum plačila
+  balance_due: Dolgovani znesek

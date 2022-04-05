@@ -17,4 +17,5 @@ invoice:
   paid: Bezahlt
   total: Gesamtbetrag
   amount_paid: Betrag gezahlt
+  date_paid: Zahlungsdatum
   balance_due: Fälliger Betrag

@@ -1,4 +1,4 @@
-description: English
+description: English (GB)
 invoice:
   invoice: Invoice
   prepared_for: Prepared For # label for client’s name & address
@@ -7,9 +7,9 @@ invoice:
     description: Description
     quantity: Quantity
     rate: Rate
-    tax: Tax
+    tax: VAT / Tax
     total: Total
-  tax_total: Tax
+  tax_total: VAT / Tax
   subtotal: Subtotal
   total_due: Total Due
   payment_due: Payment Due

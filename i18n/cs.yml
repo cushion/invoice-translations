@@ -17,4 +17,5 @@ invoice:
   paid: Zaplaceno
   total: Celkem
   amount_paid: Uhrazená částka
+  date_paid: Datum výplaty
   balance_due: Nedoplatek

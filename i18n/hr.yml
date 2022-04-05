@@ -17,4 +17,5 @@ invoice:
   paid: Plaćeno
   total: Ukupno
   amount_paid: Plaćen iznos
+  date_paid: Datum plaćanja
   balance_due: Razlika

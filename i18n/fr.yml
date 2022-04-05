@@ -17,4 +17,5 @@ invoice:
   paid: Payée
   total: Total
   amount_paid: Total payé
+  date_paid: Date de paiement
   balance_due: Montant dû
