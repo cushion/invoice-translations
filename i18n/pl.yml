@@ -15,6 +15,7 @@ invoice:
   payment_due: Płatne do
   discount: Rabat
   paid: Zapłacono
+  uncollectible: Nieściągalna
   total: Suma
   amount_paid: Wartość zapłacona
   date_paid: Termin zapłaty

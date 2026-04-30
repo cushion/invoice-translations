@@ -15,6 +15,7 @@ invoice:
   payment_due: Betaling binnen
   discount: Korting
   paid: Betaald
+  uncollectible: Oninbaar
   total: Totaal
   amount_paid: Totaal betaald
   date_paid: Datum van betaling

@@ -15,6 +15,7 @@ invoice:
   payment_due: Förfallodatum
   discount: Rabatt
   paid: Betald
+  uncollectible: Osäker fordran
   total: Totalt
   amount_paid: Betalt
   date_paid: Betalningsdatum

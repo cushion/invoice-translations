@@ -15,6 +15,7 @@ invoice:
   payment_due: Valuta
   discount: Popust
   paid: Plačano
+  uncollectible: Neizterljivo
   total: Skupaj
   amount_paid: Plačani znesek
   date_paid: Datum plačila

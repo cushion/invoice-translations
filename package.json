@@ -1,6 +1,6 @@
 {
   "name": "invoice-translations",
-  "version": "0.0.22",
+  "version": "0.0.23",
   "description": "Invoice translations for Cushion",
   "main": "nuxt/module.js",
   "directories": {

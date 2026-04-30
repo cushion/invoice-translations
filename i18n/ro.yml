@@ -15,6 +15,7 @@ invoice:
   payment_due: Plata datorată
   discount: Reducere
   paid: Plătit
+  uncollectible: Neîncasabilă
   total: Total
   amount_paid: Suma plătită
   date_paid: Data plății

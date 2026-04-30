@@ -15,6 +15,7 @@ invoice:
   payment_due: Pagamento Dovuto
   discount: Sconto
   paid: Pagata
+  uncollectible: Inesigibile
   total: Totale
   amount_paid: Pagato
   date_paid: Data di pagamento

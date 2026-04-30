@@ -15,6 +15,7 @@ invoice:
   payment_due: Date d'échéance
   discount: Réduction
   paid: Payée
+  uncollectible: Irrécouvrable
   total: Total
   amount_paid: Total payé
   date_paid: Date de paiement

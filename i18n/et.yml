@@ -15,6 +15,7 @@ invoice:
   payment_due: Makse tähtaeg
   discount: Allahindlus
   paid: Tasutud
+  uncollectible: Lootusetu
   total: Summa
   amount_paid: Tasutud summa
   date_paid: Tasumise kuupäev

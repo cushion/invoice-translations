@@ -15,6 +15,7 @@ invoice:
   payment_due: Datum splatnosti
   discount: Sleva
   paid: Zaplaceno
+  uncollectible: Nedobytné
   total: Celkem
   amount_paid: Uhrazená částka
   date_paid: Datum výplaty

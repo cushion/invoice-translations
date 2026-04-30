@@ -15,6 +15,7 @@ invoice:
   payment_due: Zahlbar bis
   discount: Rabatt
   paid: Bezahlt
+  uncollectible: Uneinbringlich
   total: Gesamtbetrag
   amount_paid: Betrag gezahlt
   date_paid: Zahlungsdatum

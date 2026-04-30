@@ -15,6 +15,7 @@ invoice:
   payment_due: Payment Due
   discount: Discount
   paid: Paid
+  uncollectible: Uncollectible
   total: Total
   amount_paid: Amount Paid
   date_paid: Date Paid

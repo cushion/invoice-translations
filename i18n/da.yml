@@ -15,6 +15,7 @@ invoice:
   payment_due: Forfaldsdato
   discount: Rabat
   paid: Betalt
+  uncollectible: Uerholdelig
   total: Total
   amount_paid: Betalt beløb
   date_paid: Betalingsdato

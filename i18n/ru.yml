@@ -15,6 +15,7 @@ invoice:
   payment_due: Заплатить до
   discount: Дисконт
   paid: Оплаченный
+  uncollectible: Безнадёжный
   total: Всего
   amount_paid: Выплаченная сумма
   date_paid: Дата оплаты

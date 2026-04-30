@@ -2,7 +2,7 @@
 
 ![](https://s3.amazonaws.com/cushionapp-marketing-assets/uploads/invoicing-github.png)
 
-[Cushion](http://cushionapp.com) relies on crowdsourcing for the translation of its invoice template. If you’d like to provide a translation for your language, follow the steps below. Here’s an [example invoice](https://www.dropbox.com/s/bj3hi0cwf3jy83n/cushion-invoice.pdf?dl=0). We’ll update the list of available locales within a few days of merging your pull request.
+[Cushion](http://cushionapp.com) relies on crowdsourcing and AI for the translation of its invoice template. If you’d like to provide a translation for your language, follow the steps below. Here’s an [example invoice](https://www.dropbox.com/s/bj3hi0cwf3jy83n/cushion-invoice.pdf?dl=0). We’ll update the list of available locales within a few days of merging your pull request.
 
 ## Contributing
 
